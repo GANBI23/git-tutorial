@@ -1,3 +1,4 @@
 #Gitチュートリアル
--feture-A
+-feature-A
 -fix-B
+-feature-C
